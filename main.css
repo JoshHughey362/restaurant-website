@@ -1,0 +1,25 @@
+body {
+	background-color: gold;
+	font-family: 'Asap', sans-serif;
+
+}
+
+.menu-left {
+	float: left;
+	width: 50%;
+}
+
+.menu-right {
+	float: left;
+	width: 50%;
+}
+
+.clear {
+	clear: both;
+}
+
+img {width: 15%}
+img {width: 15%}
+img {width: 15%}
+img {width: 15%}
+img {width: 15%}
